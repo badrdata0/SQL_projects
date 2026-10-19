@@ -6,7 +6,7 @@
 **Base de données** : `sql_project_p1`
 **Outils** : SQL Server 2025 (Docker, Mac M2), VS Code + extension mssql
 
-Ce projet analyse les ventes d'un magasin (2022-2023) avec SQL. Il couvre toute la démarche d'un analyste de données : créer la base, importer et nettoyer les données, les explorer, puis répondre à des questions métier concrètes, dont trois questions de rentabilité ajoutées au projet d'origine.
+Ce projet analyse les ventes d'un magasin (2022-2023) avec SQL. Il couvre toute la démarche d'un analyste de données : créer la base, importer et nettoyer les données, les explorer, puis répondre à des questions métier concrètes comme la rentabilité. 
 
 ## Objectifs
 
