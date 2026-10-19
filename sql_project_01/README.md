@@ -208,7 +208,7 @@ ORDER BY total_commandes DESC;
 
 ### 4. Analyse : rentabilité (ajout personnel)
 
-Ces trois questions ne figurent pas dans le projet d'origine. Elles exploitent la colonne `cogs` (coût du produit pour le magasin) pour calculer la **marge brute** = montant payé − coût du produit.
+Les 3 questions suivantes exploitent la colonne `cogs` (coût du produit pour le magasin) pour calculer la **marge brute** = montant payé − coût du produit.
 
 **B1. Marge brute de chaque catégorie, en montant et en pourcentage**
 
@@ -259,7 +259,7 @@ ORDER BY annee, trimestre;
 
 ## Choix techniques
 
-Ce projet est inspiré du projet « Retail Sales Analysis » de la chaîne Zero Analyst (en PostgreSQL). Il a été traduit en SQL Server, avec plusieurs choix différents :
+Ce projet a été réalisé en SQL Server, avec plusieurs choix différents de PostgreSQL :
 
 | Sujet | Choix retenu | Pourquoi |
 |---|---|---|
