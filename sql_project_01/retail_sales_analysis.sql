@@ -8,8 +8,7 @@
   Objectif : importer, nettoyer et explorer des données de ventes,
   puis répondre à 10 questions métier + 3 questions de rentabilité.
 
-  Inspiré du projet "Retail Sales Analysis" de Zero Analyst (PostgreSQL),
-  traduit en SQL Server, avec plusieurs choix techniques améliorés
+  Projet réalisé avec SQL Server, avec plusieurs choix techniques améliorés
   (voir le README).
 =====================================================================
 
@@ -263,7 +262,6 @@ ORDER BY total_commandes DESC;   -- Soir 1062 ; Matin 558 ; Après-midi 377
 
 -- =====================================================================
 -- PARTIE 5 : QUESTIONS PERSONNELLES — RENTABILITÉ
--- (non traitées dans la vidéo : on exploite la colonne cogs)
 -- Marge brute = ce que le client paie − ce que le produit coûte au magasin
 --             = total_sale − cogs
 -- =====================================================================
