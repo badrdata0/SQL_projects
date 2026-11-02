@@ -51,7 +51,7 @@ Tables are linked with foreign keys, created parents first (`category`, `custome
 
 ## Business questions
 
-Full queries are in [`amazon_sql_project.sql`](amazon_sql_project.sql).
+Full queries are in [`amazon_sql_project.sql`](ecommerce_amazon.sql).
 
 ### 1. Top selling products
 Top 10 products by total sales value, with quantity sold. The top product is the **Apple iMac Pro** (126 units, about 630K in sales), followed by the iMac 27-Inch Retina and the Canon EOS R5. High-priced electronics drive revenue.
