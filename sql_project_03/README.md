@@ -2,8 +2,6 @@
 
 End-to-end data project: download a Walmart sales dataset from Kaggle, clean it with **pandas**, load it into **SQL Server** (Docker) and answer 9 business questions with **T-SQL**.
 
-## Project overview
-
 ![Project pipeline](walmart_project_pipeline.png)
 
 ## Project structure
