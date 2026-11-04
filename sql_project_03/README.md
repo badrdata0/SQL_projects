@@ -4,7 +4,7 @@ End-to-end data project: download a Walmart sales dataset from Kaggle, clean it 
 
 ## Project overview
 
-![Project pipeline](images/walmart_project_pipeline.png)
+![Project pipeline](walmart_project_pipeline.png)
 
 ## Project structure
 
