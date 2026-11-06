@@ -10,9 +10,9 @@ A retail company wants to understand how its customers shop in order to improve 
 
 ```mermaid
 flowchart LR
-    A[Raw CSV<br/>3,900 customers] --> B[Python<br/>cleaning & feature engineering]
-    B --> C[SQL Server<br/>10 business questions]
-    B --> D[Power BI<br/>interactive dashboard]
+    A[Raw CSV<br/>3,900 rows] --> B[Python<br/>cleaning]
+    B --> C[SQL Server<br/>10 questions]
+    B --> D[Power BI<br/>dashboard]
 ```
 
 ## Dataset
