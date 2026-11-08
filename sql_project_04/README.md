@@ -93,7 +93,3 @@ flowchart LR
 2. Start SQL Server (e.g. in Docker) and run the first part of `customer_behavior_sql_queries.sql` to create the `customer_behavior` database.
 3. Run the notebook. It cleans the data and loads the `customer` table into SQL Server (you will be asked for the password).
 4. Run the business questions in `customer_behavior_sql_queries.sql`.
-
-## Acknowledgements
-
-Project based on the tutorial by [Amlan Mohanty](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI), adapted to SQL Server, macOS and pymssql.
