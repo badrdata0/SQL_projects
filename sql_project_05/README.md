@@ -1,6 +1,6 @@
 # Banking Risk Analysis
 
-End-to-end data analytics project on banking client data: data loading and business analysis in **SQL Server**, exploratory data analysis in **Python**, and a dashboard in **Power BI** (in progress).
+End-to-end data analytics project on banking client data: data loading and business analysis in **SQL Server**, exploratory data analysis in **Python**, and a dashboard in **Power BI**. 
 
 ## Overview
 
@@ -112,6 +112,3 @@ The original tutorial uses MySQL, `mysql.connector` and Google Colab. Main chang
 - **Secure connection**: the tutorial writes the password in the code (`password="root"`). Here it is typed at runtime with `getpass`, encoded with `quote_plus`, and the data is read with SQLAlchemy + pymssql.
 - **More SQL**: the tutorial uses SQL only to store the data. Here the dashboard figures are also computed with SQL business questions, a view and a stored procedure.
 
-## Acknowledgements
-
-Project based on the Banking EDA tutorial by Satyajit Pattnaik, adapted to SQL Server, macOS and pymssql.
